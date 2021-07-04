@@ -1,3 +1,3 @@
-# spotify-lyrics
+# Spotify Profile
 
-abc
+> A web app for visualizing personalized Spotify data
